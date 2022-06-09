@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://cdn.cloudflare.steamstatic.com/steam/apps/380840/ss_06f13c3a0878041958fc3846fe8af10b38c00f26.1920x1080.jpg?t=1578354106')
+}
+
+.text {
+    color: white;
+    text-align: center;
+}
+
+.text1 {
+    color: white;
+    text-align: center;
+}
+
+.size {
+    color: brown;
+}
+
+.border {
+    box-sizing: 0px;
+    display: inline;
+}
